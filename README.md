@@ -14,7 +14,7 @@ Este projeto é uma Pokédex desenvolvida como parte de um desafio do bootcamp d
 ## Como Rodar o Projeto
 1. Clone o repositório: `git clone https://github.com/MatheusGress/pokedex-gress`
 2. Abra o arquivo `index.html` no navegador para visualizar a Pokédex.
-3. Utilize o comando 'http-server ./' no terminal para iniciar um teste local.
+3. Utilize o comando `http-server ./` no terminal para iniciar um teste local.
 
 ## Desafios Enfrentados
 - Criar uma navegação dinâmica entre a lista de Pokémons e as páginas de detalhes utilizando JavaScript puro.
