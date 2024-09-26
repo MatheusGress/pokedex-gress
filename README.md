@@ -12,7 +12,7 @@ Este projeto é uma Pokédex desenvolvida como parte de um desafio do bootcamp d
 - Página de Detalhes: Ao clicar em um Pokémon na lista, o usuário é direcionado para uma página com as características detalhadas, como tipo, habilidades, peso, altura, etc.
 
 ## Como Rodar o Projeto
-1. Clone o repositório: `git clone https://github.com/MatheusGress/pokedex-gress`
+1. Clone o repositório: `git clone https://github.com/MatheusGress/pokedex-gress.git`
 2. Abra o arquivo `index.html` no navegador para visualizar a Pokédex.
 3. Utilize o comando `http-server ./` no terminal para iniciar um teste local.
 
